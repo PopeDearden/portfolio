@@ -10,7 +10,6 @@ import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
-import truck from '../assets/images/truck.png'
 class HomeIndex extends React.Component {
     render() {
 
@@ -83,7 +82,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/technoglyph" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage: `url(${truck})`}}>
+                        <article style={{backgroundImage: `url(https://lh3.googleusercontent.com/WB4l-hNcrKPlR57HcVQw8PCSfkORYng229wxJmAnCdelOwUklkOxlasvtFbVZr_oKQEsdAQSIHLt2ESlmc18-GU1z3RhGeImyQV8_5lK0xnbFiqiGYX46GSn5o8UhPRwxYMM0zMC62AZmycL0F5ZTR5Ma5z6lFlNQbsY8v70_jW9rjuZoyCzGAYgThPRijcO6_lBolDIWum4qK_uFJpN4e5eNtyWLY0dw9STM1c9x6_e_k8A2OW0J2uu08eAKLZ2jauc9KGdQzWY5X5CYsgUhhyHkffPFOg18MBPLJVwjhf_XZCSIMONE4ka3WWWs3eRfPaN2udMzeR87lnke1-l6VfU_wOuHgQFj1rluZqNgtK3oohECrS8S4YDQ6Ky4s7VgcmatgjpYvHu-fY220jZOWfLxhSBtPjqKcaIkju53BTgtGS2O-RTEKRhfr2oSk9C81Ekymb2_djMVRRYHPxOvBOIe2LBa_BHY-pHLXsb_6owMcJc6TEYm9nEo8IPFEl0QKZt1jv3iG1FFhdLeJITqexj5M2qW8Q1x-oOPNwXEXWtTN2NEyn14rCWRypecO2v-520fGrOBoEdUWymHDpzo2qvhAtKbCpjwWvf2LuNwEZ8JTvL4IVluRu2_AtSQVN3qPzQAHEVOIn-hMdPdYfj_G17XmiTab1AEUU7Xm9Tscp0O4OmmfJlAP4bIS1yj07lrbqwGeHFjI1Ox_e_ujfUD0E84lt0OzlVthu1d85WRcFDcHRP=w345-h346-no)`}}>
                             <header className="major">
                                 <h3>Project: What the truck?</h3>
                                 <p>A Food Truck Event Tracking Application (Mobile Only)</p>
